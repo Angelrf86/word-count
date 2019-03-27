@@ -7,8 +7,7 @@ Usage
 How to clone the code
 ---------------------
 
-Write me ...
-
+PATATA
 
 Make
 ----
@@ -18,7 +17,6 @@ Generate all results:
 ::
 
   $ make -f Makefile_all
-
 
 Snakemake
 ---------
